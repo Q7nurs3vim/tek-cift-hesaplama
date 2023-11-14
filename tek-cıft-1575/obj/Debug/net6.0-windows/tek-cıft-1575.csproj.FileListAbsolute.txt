@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\bin\Debug\net6.0-windows\tek-cıft-1575.exe
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\bin\Debug\net6.0-windows\tek-cıft-1575.deps.json
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\bin\Debug\net6.0-windows\tek-cıft-1575.runtimeconfig.json
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\bin\Debug\net6.0-windows\tek-cıft-1575.dll
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\bin\Debug\net6.0-windows\tek-cıft-1575.pdb
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek_cıft_1575.Form1.resources
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.csproj.GenerateResource.cache
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.AssemblyInfo.cs
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.dll
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\refint\tek-cıft-1575.dll
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.pdb
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\tek-cıft-1575.genruntimeconfig.cache
+C:\Users\user\Desktop\nursevim\C#\tek-cıft-1575\tek-cıft-1575\obj\Debug\net6.0-windows\ref\tek-cıft-1575.dll
